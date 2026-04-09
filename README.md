@@ -7,7 +7,7 @@
 ## 💡 About Me  
 - 🎓 4th Year CSE Student at SRM Institute of Science and Technology  
 - 💻 Passionate about Backend Development, System Design & Scalable Systems  
-- 🧠 Currently focused on DSA (Striver Sheet), System Design & MERN Stack  
+- 🧠 Currently focused on DSA, System Design & full stack development(FastApi)  
 - 🤖 Exploring AI + Web Integration (Drug Discovery, NLP, Automation)  
 - 🎯 Goal: Crack a top product-based company & build impactful tech  
 
@@ -33,7 +33,7 @@
 
 ## 📌 Projects  
 
-### 🔹 Localii – Hyperlocal Platform for Vendors  
+### 🔹 Localii – Hyperlocal Platform for Vendors(Developing)  
 - Built a scalable backend with FastAPI + PostgreSQL  
 - Implemented JWT Authentication (Access + Refresh Tokens)  
 - Designed role-based system (customer/vendor/admin)  
