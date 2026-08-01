@@ -1,33 +1,45 @@
-# Hi 👋, I'm Aniket Singh  
+# Hi, I'm Aniket Singh  
 
-🚀 B.Tech CSE (Cloud Computing) | Full Stack Developer | DSA Enthusiast  
-
----
-
-## 💡 About Me  
-- 🎓 4th Year CSE Student at SRM Institute of Science and Technology  
-- 💻 Passionate about Backend Development, System Design & Scalable Systems  
-- 🧠 Currently focused on DSA, System Design & full stack development(FastApi)  
-- 🤖 Exploring AI + Web Integration (Drug Discovery, NLP, Automation)  
-- 🎯 Goal: Crack a top product-based company & build impactful tech  
+B.Tech CSE (Cloud Computing) | Full Stack Developer | DSA Enthusiast  
 
 ---
 
-## 🛠️ Tech Stack  
+## About Me  
+- B.Tech CSE (Cloud Computing) from **SRM Institute of Science and Technology**   
+- Building my core in **Java** — OOP, collections, and DSA daily, with **Spring Boot** as my next step into backend at scale 
+-Serious about **DSA & system design** — solving in Java, and learning the *why* behind each pattern, not just the solution 
+- Research Intern @ **National University of Singapore** · Published in **IEEE Xplore** on AI-driven healthcare diagnostics
+- Shipped production-style backends with **Python, FastAPI, PostgreSQL, Celery & Docker** — REST APIs, async pipelines, containerized services
+- Explored **AI × backend** — LangChain/LangGraph agents and RAG pipelines for real automation
+- I learn by building. Every project here started as something I didn't know how to do
 
-### 💻 Languages  
-- Java | Python | JavaScript | SQL  
+---
 
-### 🌐 Web Development  
-- Frontend: React.js, Next.js, Tailwind CSS  
-- Backend: Node.js, Express.js, FastAPI  
-- Database: MongoDB, PostgreSQL, DynamoDB  
+## Tech Stack
 
-### ⚙️ Tools & Technologies  
-- Git & GitHub  
-- Docker  
-- AWS (S3, Lambda, API Gateway)  
-- REST APIs & WebSockets  
+### Languages
+- **Java** (primary) | Python | JavaScript | SQL
+
+### Java & Backend
+- Core Java — OOP, Collections, Exception Handling, Generics
+- DSA in Java — Arrays, Recursion, Trees, Graphs, DP
+- **Spring Boot** *(currently learning)*
+- REST API design & layered architecture
+
+### Web Development
+- Frontend: React.js, Tailwind CSS
+- Backend: FastAPI, Node.js & Express.js
+- Database: PostgreSQL, MongoDB
+
+### Tools & Technologies
+- Git & GitHub
+- Docker
+- Celery & Redis (async task queues)
+- Postman / Hoppscotch
+- REST APIs & WebSockets
+
+### CS Fundamentals
+- Operating Systems · DBMS · Computer Networks · System Design
 
 ---
 
@@ -54,21 +66,21 @@
 
 ---
 
-## 📈 Current Focus  
-- 🔥 Solving Striver DSA Sheet (450+)  
-- 🧠 Mastering System Design (HLD + LLD)  
-- ⚡ Building Production-level Backend Systems  
+## Current Focus  
+- Solving Striver DSA Sheet (450+)  
+- Mastering System Design (HLD + LLD)  
+-  Building Production-level Backend Systems  
 
 ---
 
-## 📫 Connect With Me  
-- 📧 Email: asaniket.singh422@gmail.com  
-- 💼 LinkedIn: (Add your link here)  
-- 🌐 Portfolio: (Add when ready)  
+## Connect With Me  
+- Email: asaniket.singh422@gmail.com  
+-  LinkedIn:www.linkedin.com/in/aniket-singh-0b6530251
+-  Portfolio: (Add when ready)  
 
 ---
 
 ## ⚡ Fun Fact  
-I enjoy solving complex problems and turning ideas into scalable systems 🚀  
+I enjoy solving complex problems and turning ideas into scalable systems  
 
 --
